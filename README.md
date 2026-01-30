@@ -482,10 +482,10 @@ This software is provided **for educational and security research purposes only*
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Issues Page](https://github.com/yourusername/crash-game-security-test/issues)
-- **Discord**: [Community Server](https://discord.gg/yourserver)
+- **Project Lead**:Kareem alsayid 
+- **Email**: k8851444@gmail.com
+- **GitHub Issues**: [Issues Page](https://github.com/Kareem-444/crash-game-security-test/issues)
+- **Discord Username**: kareem001232
 
 ---
 
