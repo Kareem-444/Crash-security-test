@@ -461,8 +461,7 @@ This software is provided **for educational and security research purposes only*
 
 ### Prohibited Use:
 ❌ Exploiting third-party systems without authorization  
-❌ Violating terms of service of online platforms  
-❌ Illegal gambling or fraud  
+❌ Violating terms of service of online platforms
 ❌ Any unlawful activities
 
 ### Legal Responsibility:
